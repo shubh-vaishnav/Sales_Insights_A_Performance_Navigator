@@ -4,7 +4,7 @@
 
 Our Sales Insights project uses Power BI to turn raw sales data into helpful insights. With Excel, DAX, and SQL, we've built a user-friendly dashboard for stakeholders to understand sales performance easily.
 
-[Live Report Link](https://www.novypro.com/project/sales-insights-a-performance-navigator-using-power-bi) 
+[Live Report Link](https://bit.ly/3KAsdKv) 
 
 ## Tech stacks
 
